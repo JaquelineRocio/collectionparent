@@ -1,0 +1,10 @@
+com\collection\tablon\entities\TablonCartera.class
+com\collection\tablon\entities\TablonPrioridad.class
+com\collection\tablon\entities\TablonProducto.class
+com\collection\tablon\TablonApplication.class
+com\collection\tablon\controllers\TablonRestController.class
+com\collection\tablon\entities\TablonMoneda.class
+com\collection\tablon\repositories\TablonRepository.class
+com\collection\tablon\entities\Tablon.class
+com\collection\tablon\entities\TablonEntidad.class
+com\collection\tablon\common\SecurityConfiguration.class
